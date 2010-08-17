@@ -1321,3 +1321,5 @@ code {
 		border: none;
 	}
 }
+
+#site-generator { display: none; }
